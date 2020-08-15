@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './app.css';
+import './App.css';
 import Dropdown from 'react-bootstrap/Dropdown';
 import axios from 'axios';
 
