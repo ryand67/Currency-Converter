@@ -11,7 +11,7 @@ function App() {
   const [convertAmount, setAmount] = useState(0);
   const [convertAnswer, setAnswer] = useState(0);
 
-  const currencyList = ['USD', 'EUR', 'CAD', 'GBP', 'JPY'];
+  const currencyList = ['USD', 'EUR', 'CAD', 'GBP', 'JPY', 'AUD', 'NZD'];
 
   const handleAmountChange = (e) => {
     setAmount(e.target.value);
