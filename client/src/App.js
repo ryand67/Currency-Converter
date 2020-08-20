@@ -30,6 +30,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>CURRENCY CONVERTER:</h1>
       <div className="dropdownDiv">
         <Dropdown>
           <Dropdown.Toggle variant="success" id="dropdown-basic">
